@@ -21,7 +21,7 @@ def sum_invalid_ids(input_line):
                 
     return total
 
-# --- EDIT THIS: paste your real puzzle input here ---
 puzzle_input = ""
 
 print("Result:", sum_invalid_ids(puzzle_input))
+
